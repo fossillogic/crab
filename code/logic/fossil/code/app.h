@@ -14,6 +14,7 @@
 #ifndef FOSSIL_APP_CODE_H
 #define FOSSIL_APP_CODE_H
 
+#include <fossil/crabdb/framework.h>
 #include <fossil/sys/framework.h>
 #include <fossil/io/framework.h>
 
